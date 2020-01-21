@@ -1,0 +1,7 @@
+prebuilt_etc {
+    name: "privapp_whitelist_systemui_legacy",
+    sub_dir: "permissions",
+    src: "system/etc/permissions/com.android.systemui.xml",
+    filename_from_src: true,
+}
+
